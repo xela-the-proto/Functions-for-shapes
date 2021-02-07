@@ -1,0 +1,3 @@
+D:/progetti c ++/AreeEPerimetriFigureGeometriche_Funzioni/cmake-build-debug/CMakeFiles/AreeEPerimetriFigureGeometriche_Funzioni.dir
+D:/progetti c ++/AreeEPerimetriFigureGeometriche_Funzioni/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/progetti c ++/AreeEPerimetriFigureGeometriche_Funzioni/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/progetti c ++/AreeEPerimetriFigureGeometriche_Funzioni/funzioni.cpp
+cmath
+-
+funzioni.h
+D:/progetti c ++/AreeEPerimetriFigureGeometriche_Funzioni/funzioni.h
+
+D:/progetti c ++/AreeEPerimetriFigureGeometriche_Funzioni/funzioni.h
+
+D:/progetti c ++/AreeEPerimetriFigureGeometriche_Funzioni/main.cpp
+iostream
+-
+funzioni.h
+D:/progetti c ++/AreeEPerimetriFigureGeometriche_Funzioni/funzioni.h
+
